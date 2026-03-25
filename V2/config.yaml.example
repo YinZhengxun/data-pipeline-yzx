@@ -1,0 +1,34 @@
+# DAVA Batch Processing Pipeline Configuration
+# Copy this file to config.yaml and update the paths for your environment
+
+# Stage control
+stage: 1  # Start stage (1: manifest generation, 2: processing)
+stop_stage: 2  # End stage
+
+# Data paths
+data_dir: "/path/to/your/data/directory"  # Directory to search for audio/video files
+file_extension: "mp4"  # File extension to search for (mp4, mp3, wav, flac, etc.)
+csv_file: "/path/to/manifest.csv"  # Output manifest file (stage 1) or input file (stage 2)
+out_dir: "/path/to/output/directory"  # Output directory for processed files
+
+# ASR Configuration
+asr_backend: "transformers"  # "transformers" | "openai"
+asr_model: "distil-whisper/distil-large-v3.5"  # ASR model name
+lang: ""  # Language code (empty for auto-detection)
+lang_detection_model: "base"  # tiny, base, small, medium, large
+
+# Processing Configuration
+gpu_index: 0  # GPU index to use
+batch_size: 32  # Number of files to process before generating speaker JSON
+num_speakers: ""  # Number of speakers (empty for auto-detection)
+hf_token: ""  # HuggingFace token for diarization (required for pyannote models)
+
+# Topic Detection Configuration
+enable_topic_detection: true  # Enable/disable topic detection
+topic_model_id: "Qwen/Qwen3-0.6B"  # Qwen model ID for topic classification
+qwen_python_path: "/path/to/qwen3-env/bin/python3"  # Qwen virtual environment Python path
+topic_verbose: false  # Enable verbose output for topic detection
+
+# Python Environment Paths
+dava_python_path: "/path/to/dava-env/bin/python"  # Main pipeline Python environment
+
