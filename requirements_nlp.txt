@@ -1,0 +1,21 @@
+# ==============================
+# V3 pipeline: BERTopic + NER environment
+# Python 3.10+ recommended
+# ==============================
+
+numpy>=1.24
+pandas>=2.0
+PyYAML>=6.0
+
+torch>=2.2
+transformers>=4.40
+huggingface-hub>=0.23
+
+sentence-transformers>=2.6
+bertopic>=0.16
+umap-learn>=0.5.6
+hdbscan>=0.8.33
+scikit-learn>=1.4
+plotly>=5.18
+
+flair>=0.14

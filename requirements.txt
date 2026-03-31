@@ -1,0 +1,3 @@
+# Install everything (single-environment setup):
+-r requirements_asr.txt
+-r requirements_nlp.txt
