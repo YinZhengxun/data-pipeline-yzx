@@ -1,0 +1,269 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CineMinds WhisperX Enriched Format v2",
+  "type": "object",
+  "required": [
+    "format_version",
+    "transcript",
+    "sentences"
+  ],
+  "properties": {
+    "format_version": {
+      "type": "string",
+      "const": "cineminds_whisperx_enriched_v2"
+    },
+    "created_at_utc": {
+      "type": "string"
+    },
+    "source_file": {
+      "type": "string"
+    },
+    "transcript": {
+      "type": "object",
+      "required": [
+        "segments"
+      ],
+      "properties": {
+        "segments": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "chunk_tags": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "chunk_id",
+          "tags"
+        ],
+        "properties": {
+          "chunk_id": {
+            "type": [
+              "integer",
+              "string"
+            ]
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "label",
+                "category"
+              ],
+              "properties": {
+                "tag_id": {
+                  "type": "string"
+                },
+                "label": {
+                  "type": "string"
+                },
+                "category": {
+                  "type": "string",
+                  "enum": [
+                    "term",
+                    "field",
+                    "register"
+                  ]
+                },
+                "term_en": {
+                  "type": "string"
+                },
+                "term_de": {
+                  "type": "string"
+                },
+                "register": {
+                  "type": "string"
+                },
+                "field": {
+                  "type": "string"
+                },
+                "exp_field": {
+                  "type": "string"
+                }
+              },
+              "additionalProperties": true
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "sentences": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "sentence_id",
+          "chunk_id",
+          "text",
+          "start",
+          "end",
+          "speaker",
+          "bert_keywords",
+          "bert_topic_name",
+          "tags",
+          "words"
+        ],
+        "properties": {
+          "sentence_id": {
+            "type": "string"
+          },
+          "chunk_id": {
+            "type": [
+              "integer",
+              "string"
+            ]
+          },
+          "segment_index": {
+            "type": "integer"
+          },
+          "text": {
+            "type": "string"
+          },
+          "start": {
+            "type": "number"
+          },
+          "end": {
+            "type": "number"
+          },
+          "speaker": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "bert_keywords": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "bert_topic_name": {
+            "type": "string"
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "object"
+            }
+          },
+          "words": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "form",
+                "start",
+                "end",
+                "ner_type",
+                "ner_subtype",
+                "ner_id"
+              ],
+              "properties": {
+                "form": {
+                  "type": "string"
+                },
+                "start": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "end": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "speaker": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "ner_type": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "ner_subtype": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "ner_id": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                }
+              },
+              "additionalProperties": true
+            }
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "text",
+          "type",
+          "subtype",
+          "start",
+          "end"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "text": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "subtype": {
+            "type": "string"
+          },
+          "start": {
+            "type": "number"
+          },
+          "end": {
+            "type": "number"
+          },
+          "chunk_id": {
+            "type": [
+              "integer",
+              "string"
+            ]
+          },
+          "sentence_id": {
+            "type": "string"
+          },
+          "segment_index": {
+            "type": "integer"
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "meta": {
+      "type": "object",
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

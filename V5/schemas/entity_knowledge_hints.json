@@ -1,0 +1,85 @@
+{
+  "version": "1.0.0",
+  "hints": [
+    {
+      "canonical_name": "director of photography",
+      "aliases": ["D.P", "D.P.", "DP", "DoP", "DOP"],
+      "preferred_type": "PER",
+      "preferred_subtype": "cinematographer",
+      "description": "In film-production contexts, DP usually refers to the director of photography.",
+      "context_keywords": ["regie", "kamera", "shot", "set", "crew", "bild", "scharf", "camera"],
+      "require_context_keywords": true,
+      "confidence": 0.92
+    },
+    {
+      "canonical_name": "RTL Group",
+      "aliases": ["RTL", "RTL Group"],
+      "preferred_type": "ORG",
+      "preferred_subtype": "broadcaster",
+      "description": "RTL is commonly a European television broadcaster and media group in German-language film and TV contexts.",
+      "context_keywords": ["sitcom", "sender", "fernsehen", "tv", "serie", "broadcast", "television"],
+      "require_context_keywords": false,
+      "confidence": 0.95
+    },
+    {
+      "canonical_name": "SRF",
+      "aliases": ["SRF", "Schweizer Radio und Fernsehen"],
+      "preferred_type": "ORG",
+      "preferred_subtype": "broadcaster",
+      "description": "Swiss public broadcaster.",
+      "context_keywords": ["sender", "fernsehen", "tv", "broadcast", "television"],
+      "require_context_keywords": false,
+      "confidence": 0.95
+    },
+    {
+      "canonical_name": "ARD",
+      "aliases": ["ARD"],
+      "preferred_type": "ORG",
+      "preferred_subtype": "broadcaster",
+      "description": "German public broadcaster.",
+      "context_keywords": ["sender", "fernsehen", "tv", "broadcast", "television"],
+      "require_context_keywords": false,
+      "confidence": 0.95
+    },
+    {
+      "canonical_name": "ZDF",
+      "aliases": ["ZDF"],
+      "preferred_type": "ORG",
+      "preferred_subtype": "broadcaster",
+      "description": "German public broadcaster.",
+      "context_keywords": ["sender", "fernsehen", "tv", "broadcast", "television"],
+      "require_context_keywords": false,
+      "confidence": 0.95
+    },
+    {
+      "canonical_name": "ORF",
+      "aliases": ["ORF"],
+      "preferred_type": "ORG",
+      "preferred_subtype": "broadcaster",
+      "description": "Austrian public broadcaster.",
+      "context_keywords": ["sender", "fernsehen", "tv", "broadcast", "television"],
+      "require_context_keywords": false,
+      "confidence": 0.95
+    },
+    {
+      "canonical_name": "BBC",
+      "aliases": ["BBC"],
+      "preferred_type": "ORG",
+      "preferred_subtype": "broadcaster",
+      "description": "British public broadcaster.",
+      "context_keywords": ["sender", "fernsehen", "tv", "broadcast", "television"],
+      "require_context_keywords": false,
+      "confidence": 0.95
+    },
+    {
+      "canonical_name": "ZFF",
+      "aliases": ["ZFF", "Zurich Film Festival"],
+      "preferred_type": "ORG",
+      "preferred_subtype": "film_festival",
+      "description": "Zurich Film Festival.",
+      "context_keywords": ["festival", "premiere", "screening", "film festival"],
+      "require_context_keywords": false,
+      "confidence": 0.95
+    }
+  ]
+}

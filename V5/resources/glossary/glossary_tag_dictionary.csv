@@ -1,0 +1,367 @@
+﻿category,label,term_id,term_en,term_de,register,field,exp_field,source,tag_id
+term,internal focalization,term_0001,internal focalization,Subjektivierung / interne Fokalisierung,Key Words,Narratology,exp_Narratology,"Genette, Gérard (1972): Figures III. Paris: Editions du Seuil. Genette, Gérard (1983): Nouveau discours du récit. Paris: Editions du Seuil.",tag_0001
+term,Subjektivierung,term_0001,internal focalization,Subjektivierung / interne Fokalisierung,Key Words,Narratology,exp_Narratology,"Genette, Gérard (1972): Figures III. Paris: Editions du Seuil. Genette, Gérard (1983): Nouveau discours du récit. Paris: Editions du Seuil.",tag_0002
+term,interne Fokalisierung,term_0001,internal focalization,Subjektivierung / interne Fokalisierung,Key Words,Narratology,exp_Narratology,"Genette, Gérard (1972): Figures III. Paris: Editions du Seuil. Genette, Gérard (1983): Nouveau discours du récit. Paris: Editions du Seuil.",tag_0003
+field,Narratology,,,,,Narratology,exp_Narratology,,tag_0004
+register,Key Words,,,,Key Words,,,,tag_0005
+term,dream,term_0002,dream,Traum,,,exp_Narratology,,tag_0006
+term,Traum,term_0002,dream,Traum,,,exp_Narratology,,tag_0007
+term,hallucination,term_0003,hallucination,Halluzination,,,exp_Narratology,,tag_0008
+term,Halluzination,term_0003,hallucination,Halluzination,,,exp_Narratology,,tag_0009
+term,memory,term_0004,memory,Erinnerung,,,exp_Narratology,,tag_0010
+term,Erinnerung,term_0004,memory,Erinnerung,,,exp_Narratology,,tag_0011
+term,internal ocularization (POV),term_0005,internal ocularization (POV),interne Okularisation (subjetive Einstellung),,,exp_Narratology,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0012
+term,interne Okularisation (subjetive Einstellung),term_0005,internal ocularization (POV),interne Okularisation (subjetive Einstellung),,,exp_Narratology,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0013
+term,mind’s eye,term_0006,mind’s eye,geistiges Auge,,,exp_Narratology,"Flückiger, Barbara (2008): Visual Effects. Filmbilder aus dem Computer. Marburg: Schüren, pp. 379–394.",tag_0014
+term,geistiges Auge,term_0006,mind’s eye,geistiges Auge,,,exp_Narratology,"Flückiger, Barbara (2008): Visual Effects. Filmbilder aus dem Computer. Marburg: Schüren, pp. 379–394.",tag_0015
+term,spectatorial focalization,term_0007,spectatorial focalization,Zuschauerfokalisierung,,,exp_Narratology,"Gaudreault, André; Jost, François (1990): Le Récit cinématographique. Paris: Nathan.",tag_0016
+term,Zuschauerfokalisierung,term_0007,spectatorial focalization,Zuschauerfokalisierung,,,exp_Narratology,"Gaudreault, André; Jost, François (1990): Le Récit cinématographique. Paris: Nathan.",tag_0017
+term,alignment,term_0008,alignment,Alignment,,,exp_Narratology,"Smith, Murray (1995): Engaging Characters. Fiction, Emotion, and the Cinema. Oxford: Clarendon Press.",tag_0018
+term,allegiance,term_0009,allegiance,Allegiance,,,exp_Narratology,"Smith, Murray (1995): Engaging Characters. Fiction, Emotion, and the Cinema. Oxford, New York: Oxford University Press.",tag_0019
+term,summary,term_0010,summary,Summary,,,exp_Narratology,,tag_0020
+term,montage sequence,term_0011,montage sequence,Montagesequenz,,,exp_Narratology,"Arbeit von Andreas Maurer Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0021
+term,Montagesequenz,term_0011,montage sequence,Montagesequenz,,,exp_Narratology,"Arbeit von Andreas Maurer Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0022
+term,flashback,term_0012,flashback,Rückblende,,,exp_Narratology,"Genette, Gérard (1972): Figures III. Paris: Editions du Seuil. Genette, Gérard (1983): Nouveau discours du récit. Paris: Editions du Seuil. Bordwell, David (1985): Narration in the Fiction Film. London: Routledge. Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0023
+term,Rückblende,term_0012,flashback,Rückblende,,,exp_Narratology,"Genette, Gérard (1972): Figures III. Paris: Editions du Seuil. Genette, Gérard (1983): Nouveau discours du récit. Paris: Editions du Seuil. Bordwell, David (1985): Narration in the Fiction Film. London: Routledge. Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0024
+term,flashforward,term_0013,flashforward,Flashforward,,,exp_Narratology,"Genette, Gérard (1972): Figures III. Paris: Editions du Seuil. Genette, Gérard (1983): Nouveau discours du récit. Paris: Editions du Seuil. Bordwell, David (1985): Narration in the Fiction Film. London: Routledge.",tag_0025
+term,ellipsis,term_0014,ellipsis,Ellipse,,,exp_Narratology,"Genette, Gérard (1972): Figures III. Paris: Editions du Seuil. Genette, Gérard (1983): Nouveau discours du récit. Paris: Editions du Seuil. Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0026
+term,Ellipse,term_0014,ellipsis,Ellipse,,,exp_Narratology,"Genette, Gérard (1972): Figures III. Paris: Editions du Seuil. Genette, Gérard (1983): Nouveau discours du récit. Paris: Editions du Seuil. Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0027
+term,parallel montage,term_0015,parallel montage,Parallelmontage,,,exp_Narratology,"Bordwell, David (1985): Narration in the Fiction Film. London: Routledge. Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0028
+term,Parallelmontage,term_0015,parallel montage,Parallelmontage,,,exp_Narratology,"Bordwell, David (1985): Narration in the Fiction Film. London: Routledge. Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0029
+term,iteration,term_0016,iteration,Wiederholung,,,exp_Narratology,,tag_0030
+term,Wiederholung,term_0016,iteration,Wiederholung,,,exp_Narratology,,tag_0031
+term,frame story,term_0017,frame story,Rahmenhandlung,,,exp_Narratology,,tag_0032
+term,Rahmenhandlung,term_0017,frame story,Rahmenhandlung,,,exp_Narratology,,tag_0033
+term,explanation,term_0018,explanation,Erklärung,,,exp_Narratology,,tag_0034
+term,Erklärung,term_0018,explanation,Erklärung,,,exp_Narratology,,tag_0035
+term,foreshadowing,term_0019,foreshadowing,Vorahnung,,,exp_Narratology,"Hartmann, Britta (2009): Aller Anfang. Zur Initialphase des Spielfilms. Marburg: Schüren Verlag, S. 189 ff.",tag_0036
+term,Vorahnung,term_0019,foreshadowing,Vorahnung,,,exp_Narratology,"Hartmann, Britta (2009): Aller Anfang. Zur Initialphase des Spielfilms. Marburg: Schüren Verlag, S. 189 ff.",tag_0037
+term,illustration,term_0020,illustration,Illustration,,,exp_Narratology,,tag_0038
+term,mise-en-abyme,term_0021,mise-en-abyme,Mise-en-abyme,,,exp_Narratology,"Prince, Gerald (1987): A Dictionary of Narratology. Lincoln; London: University of Nebraska Press.",tag_0039
+term,suspense,term_0022,suspense,Suspense,,,exp_Narratology,,tag_0040
+term,chase,term_0023,chase,Verfolgungsjagd,,,exp_Narratology,,tag_0041
+term,Verfolgungsjagd,term_0023,chase,Verfolgungsjagd,,,exp_Narratology,,tag_0042
+term,show-down,term_0024,show-down,Show-down,,,exp_Narratology,,tag_0043
+term,compositing,term_0025,compositing,Compositing,,VFX,exp_VFX,"Flückiger, Barbara (2008): Visual Effects. Filmbilder aus dem Computer. Marburg: Schüren, S. 191–274. Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0044
+field,VFX,,,,,VFX,exp_VFX,,tag_0045
+term,rear projection,term_0026,rear projection,Rückprojektion,,,exp_VFX,,tag_0046
+term,Rückprojektion,term_0026,rear projection,Rückprojektion,,,exp_VFX,,tag_0047
+term,matte painting,term_0027,matte painting,,,,exp_VFX,,tag_0048
+term,backdrop,term_0028,backdrop,Rücksetzer,,,exp_VFX,,tag_0049
+term,Rücksetzer,term_0028,backdrop,Rücksetzer,,,exp_VFX,,tag_0050
+term,matte,term_0029,matte,Maske,,,exp_VFX,,tag_0051
+term,Maske,term_0029,matte,Maske,,,exp_VFX,,tag_0052
+term,traveling matte,term_0030,traveling matte,Wandermasken,,,exp_VFX,"Flückiger, Barbara (2008): Visual Effects. Filmbilder aus dem Computer. Marburg: Schüren, S. 207–215.",tag_0053
+term,Wandermasken,term_0030,traveling matte,Wandermasken,,,exp_VFX,"Flückiger, Barbara (2008): Visual Effects. Filmbilder aus dem Computer. Marburg: Schüren, S. 207–215.",tag_0054
+term,fade-in,term_0031,fade-in,Aufblende,,,exp_VFX,,tag_0055
+term,Aufblende,term_0031,fade-in,Aufblende,,,exp_VFX,,tag_0056
+term,fade-out,term_0032,fade-out,Abblende,,,exp_VFX,,tag_0057
+term,Abblende,term_0032,fade-out,Abblende,,,exp_VFX,,tag_0058
+term,dissolve,term_0033,dissolve,Überblendung,,,exp_VFX,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0059
+term,Überblendung,term_0033,dissolve,Überblendung,,,exp_VFX,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0060
+term,wipe,term_0034,wipe,Wischblende,,,exp_VFX,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0061
+term,Wischblende,term_0034,wipe,Wischblende,,,exp_VFX,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0062
+term,double exposure,term_0035,double exposure,Doppelbelichtung,,,exp_VFX,,tag_0063
+term,Doppelbelichtung,term_0035,double exposure,Doppelbelichtung,,,exp_VFX,,tag_0064
+term,split screen,term_0036,split screen,Split Screen,,,exp_VFX,,tag_0065
+term,iris fade in,term_0037,iris fade in,Irisaufblende,,,exp_VFX,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0066
+term,Irisaufblende,term_0037,iris fade in,Irisaufblende,,,exp_VFX,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0067
+term,iris fade out,term_0038,iris fade out,Irisblende,,,exp_VFX,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0068
+term,Irisblende,term_0038,iris fade out,Irisblende,,,exp_VFX,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0069
+term,freeze frame,term_0039,freeze frame,Standbild / eingefrorenes Bild,,,exp_VFX,,tag_0070
+term,Standbild,term_0039,freeze frame,Standbild / eingefrorenes Bild,,,exp_VFX,,tag_0071
+term,eingefrorenes Bild,term_0039,freeze frame,Standbild / eingefrorenes Bild,,,exp_VFX,,tag_0072
+term,monochrome,term_0040,monochrome,monochrom,Color,Color Scheme,exp_Color_Scheme,,tag_0073
+term,monochrom,term_0040,monochrome,monochrom,Color,Color Scheme,exp_Color_Scheme,,tag_0074
+field,Color Scheme,,,,,Color Scheme,exp_Color_Scheme,,tag_0075
+register,Color,,,,Color,,,,tag_0076
+term,restrictive,term_0041,restrictive,restriktiv,,,exp_Color_Scheme,,tag_0077
+term,restriktiv,term_0041,restrictive,restriktiv,,,exp_Color_Scheme,,tag_0078
+term,gaudy,term_0042,gaudy,grell / bunt,,,exp_Color_Scheme,,tag_0079
+term,grell,term_0042,gaudy,grell / bunt,,,exp_Color_Scheme,,tag_0080
+term,bunt,term_0042,gaudy,grell / bunt,,,exp_Color_Scheme,,tag_0081
+term,hyperchrome,term_0043,hyperchrome,hyperchrom,,,exp_Color_Scheme,,tag_0082
+term,hyperchrom,term_0043,hyperchrome,hyperchrom,,,exp_Color_Scheme,,tag_0083
+term,pastel,term_0044,pastel,Pastell,,,exp_Color_Scheme,,tag_0084
+term,Pastell,term_0044,pastel,Pastell,,,exp_Color_Scheme,,tag_0085
+term,saturated,term_0045,saturated,gesättigt,,,exp_Color_Scheme,,tag_0086
+term,gesättigt,term_0045,saturated,gesättigt,,,exp_Color_Scheme,,tag_0087
+term,desaturated,term_0046,desaturated,entsättigt,,,exp_Color_Scheme,,tag_0088
+term,entsättigt,term_0046,desaturated,entsättigt,,,exp_Color_Scheme,,tag_0089
+term,muted,term_0047,muted,gedämpft,,,exp_Color_Scheme,,tag_0090
+term,gedämpft,term_0047,muted,gedämpft,,,exp_Color_Scheme,,tag_0091
+term,tone on tone,term_0048,tone on tone,Ton-in-Ton,,,exp_Color_Scheme,,tag_0092
+term,Ton-in-Ton,term_0048,tone on tone,Ton-in-Ton,,,exp_Color_Scheme,,tag_0093
+term,dark,term_0049,dark,dunkel,,,exp_Color_Scheme,,tag_0094
+term,dunkel,term_0049,dark,dunkel,,,exp_Color_Scheme,,tag_0095
+term,light,term_0050,light,hell,,,exp_Color_Scheme,,tag_0096
+term,hell,term_0050,light,hell,,,exp_Color_Scheme,,tag_0097
+term,black-and-white,term_0051,black-and-white,schwarz-weiss,,,exp_Color_Scheme,,tag_0098
+term,schwarz-weiss,term_0051,black-and-white,schwarz-weiss,,,exp_Color_Scheme,,tag_0099
+term,color spectrum,term_0052,color spectrum,alle Farben des Spektrums,,,exp_Color_Scheme,,tag_0100
+term,alle Farben des Spektrums,term_0052,color spectrum,alle Farben des Spektrums,,,exp_Color_Scheme,,tag_0101
+term,cold,term_0053,cold,kalt,,,exp_Color_Scheme,,tag_0102
+term,kalt,term_0053,cold,kalt,,,exp_Color_Scheme,,tag_0103
+term,warm,term_0054,warm,warm,,,exp_Color_Scheme,,tag_0104
+term,contrast of hue,term_0055,contrast of hue,Farbe-an-sich-Kontrast,Color Contrasts,Color Contrasts,exp_Color_Contrasts,"Itten, Johannes (1970): Kunst der Farbe. Ravensburg: Ravensburger Buchverlag, S. 34 ff.",tag_0105
+term,Farbe-an-sich-Kontrast,term_0055,contrast of hue,Farbe-an-sich-Kontrast,Color Contrasts,Color Contrasts,exp_Color_Contrasts,"Itten, Johannes (1970): Kunst der Farbe. Ravensburg: Ravensburger Buchverlag, S. 34 ff.",tag_0106
+field,Color Contrasts,,,,,Color Contrasts,exp_Color_Contrasts,,tag_0107
+register,Color Contrasts,,,,Color Contrasts,,,,tag_0108
+term,light-dark contrast,term_0056,light-dark contrast,Hell-Dunkel-Kontrast,Color Contrasts,Color Contrasts,exp_Color_Contrasts,"Itten, Johannes (1970): Kunst der Farbe. Ravensburg: Ravensburger Buchverlag.",tag_0109
+term,Hell-Dunkel-Kontrast,term_0056,light-dark contrast,Hell-Dunkel-Kontrast,Color Contrasts,Color Contrasts,exp_Color_Contrasts,"Itten, Johannes (1970): Kunst der Farbe. Ravensburg: Ravensburger Buchverlag.",tag_0110
+term,cold-warm contrast,term_0057,cold-warm contrast,Kalt-Warm-Kontrast,Color Contrasts,Color Contrasts,exp_Color_Contrasts,"Itten, Johannes (1970): Kunst der Farbe. Ravensburg: Ravensburger Buchverlag.",tag_0111
+term,Kalt-Warm-Kontrast,term_0057,cold-warm contrast,Kalt-Warm-Kontrast,Color Contrasts,Color Contrasts,exp_Color_Contrasts,"Itten, Johannes (1970): Kunst der Farbe. Ravensburg: Ravensburger Buchverlag.",tag_0112
+term,complementary contrast,term_0058,complementary contrast,Komplementär-Kontrast,Color Contrasts,Color Contrasts,exp_Color_Contrasts,"Itten, Johannes (1970): Kunst der Farbe. Ravensburg: Ravensburger Buchverlag.",tag_0113
+term,Komplementär-Kontrast,term_0058,complementary contrast,Komplementär-Kontrast,Color Contrasts,Color Contrasts,exp_Color_Contrasts,"Itten, Johannes (1970): Kunst der Farbe. Ravensburg: Ravensburger Buchverlag.",tag_0114
+term,saturation contrast,term_0059,saturation contrast,Qualitäts-Kontrast,Color Contrasts,Color Contrasts,exp_Color_Contrasts,"Itten, Johannes (1970): Kunst der Farbe. Ravensburg: Ravensburger Buchverlag.",tag_0115
+term,Qualitäts-Kontrast,term_0059,saturation contrast,Qualitäts-Kontrast,Color Contrasts,Color Contrasts,exp_Color_Contrasts,"Itten, Johannes (1970): Kunst der Farbe. Ravensburg: Ravensburger Buchverlag.",tag_0116
+term,contrast of extension,term_0060,contrast of extension,Quantitäts-Kontrast,Color Contrasts,Color Contrasts,exp_Color_Contrasts,"Itten, Johannes (1970): Kunst der Farbe. Ravensburg: Ravensburger Buchverlag.",tag_0117
+term,Quantitäts-Kontrast,term_0060,contrast of extension,Quantitäts-Kontrast,Color Contrasts,Color Contrasts,exp_Color_Contrasts,"Itten, Johannes (1970): Kunst der Farbe. Ravensburg: Ravensburger Buchverlag.",tag_0118
+term,successive contrast,term_0061,successive contrast,Sukzessiv-Kontrast,Color Contrasts,Color Contrasts,exp_Color_Contrasts,"Itten, Johannes (1970): Kunst der Farbe. Ravensburg: Ravensburger Buchverlag.",tag_0119
+term,Sukzessiv-Kontrast,term_0061,successive contrast,Sukzessiv-Kontrast,Color Contrasts,Color Contrasts,exp_Color_Contrasts,"Itten, Johannes (1970): Kunst der Farbe. Ravensburg: Ravensburger Buchverlag.",tag_0120
+term,symmetrical,term_0062,symmetrical,symmetrisch,Composition,Composition,exp_Composition,,tag_0121
+term,symmetrisch,term_0062,symmetrical,symmetrisch,Composition,Composition,exp_Composition,,tag_0122
+field,Composition,,,,,Composition,exp_Composition,,tag_0123
+register,Composition,,,,Composition,,,,tag_0124
+term,centered,term_0063,centered,zentriert,,Composition,exp_Composition,,tag_0125
+term,zentriert,term_0063,centered,zentriert,,Composition,exp_Composition,,tag_0126
+term,diagonal,term_0064,diagonal,diagonal,,Composition,exp_Composition,,tag_0127
+term,geometrical,term_0065,geometrical,geometrisch,,Composition,exp_Composition,,tag_0128
+term,geometrisch,term_0065,geometrical,geometrisch,,Composition,exp_Composition,,tag_0129
+term,cluttered,term_0066,cluttered,überhäuft / vollgestopft,,Composition,exp_Composition,,tag_0130
+term,überhäuft,term_0066,cluttered,überhäuft / vollgestopft,,Composition,exp_Composition,,tag_0131
+term,vollgestopft,term_0066,cluttered,überhäuft / vollgestopft,,Composition,exp_Composition,,tag_0132
+term,sparse,term_0067,sparse,spärlich / karg,,Composition,exp_Composition,,tag_0133
+term,spärlich,term_0067,sparse,spärlich / karg,,Composition,exp_Composition,,tag_0134
+term,karg,term_0067,sparse,spärlich / karg,,Composition,exp_Composition,,tag_0135
+term,flat,term_0068,flat,flächig,,Composition,exp_Composition,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0136
+term,flächig,term_0068,flat,flächig,,Composition,exp_Composition,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0137
+term,planimetric,term_0069,planimetric,gestaffelt,,Composition,exp_Composition,"Wölfflin, Heinrich (1915): Kunstgeschichtliche Grundbegriffe. Das Problem der Stilentwicklung in der neueren Kunst. Basel: Schwabe.",tag_0138
+term,gestaffelt,term_0069,planimetric,gestaffelt,,Composition,exp_Composition,"Wölfflin, Heinrich (1915): Kunstgeschichtliche Grundbegriffe. Das Problem der Stilentwicklung in der neueren Kunst. Basel: Schwabe.",tag_0139
+term,deep,term_0070,deep,tiefer Raum,,Composition,exp_Composition,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0140
+term,tiefer Raum,term_0070,deep,tiefer Raum,,Composition,exp_Composition,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0141
+term,low angle,term_0071,low angle,Untersicht,,Mise-en-cadre,exp_Mise_en_cadre,,tag_0142
+term,Untersicht,term_0071,low angle,Untersicht,,Mise-en-cadre,exp_Mise_en_cadre,,tag_0143
+field,Mise-en-cadre,,,,,Mise-en-cadre,exp_Mise_en_cadre,,tag_0144
+term,high angle,term_0072,high angle,Aufsicht,,Mise-en-cadre,exp_Mise_en_cadre,,tag_0145
+term,Aufsicht,term_0072,high angle,Aufsicht,,Mise-en-cadre,exp_Mise_en_cadre,,tag_0146
+term,framed,term_0073,framed,Rahmung,,Composition,exp_Composition,,tag_0147
+term,Rahmung,term_0073,framed,Rahmung,,Composition,exp_Composition,,tag_0148
+term,grid,term_0074,grid,"Gitter, Gitterwerk",,Composition,exp_Composition,"https://en.wikipedia.org/wiki/Latticework Koepf, Hans; Binding, Günther (2005): Bildwörterbuch der Architektur: Mit englischem, französischem, italienischem und spanischem Fachglossar. Stuttgart: Alfred Kröner Verlag.",tag_0149
+term,"Gitter, Gitterwerk",term_0074,grid,"Gitter, Gitterwerk",,Composition,exp_Composition,"https://en.wikipedia.org/wiki/Latticework Koepf, Hans; Binding, Günther (2005): Bildwörterbuch der Architektur: Mit englischem, französischem, italienischem und spanischem Fachglossar. Stuttgart: Alfred Kröner Verlag.",tag_0150
+term,window,term_0075,window,Fenster,,Composition,exp_Composition,"Christine N. Brinckmann (1997): Das Gesicht hinter der Scheibe. In: Die antropomorphe Kamera und andere Schriften zur filmischen Narration, Zürich: Chronos, pp. 200–213.",tag_0151
+term,Fenster,term_0075,window,Fenster,,Composition,exp_Composition,"Christine N. Brinckmann (1997): Das Gesicht hinter der Scheibe. In: Die antropomorphe Kamera und andere Schriften zur filmischen Narration, Zürich: Chronos, pp. 200–213.",tag_0152
+term,layers,term_0076,layers,Schichten,,Composition,exp_Composition,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0153
+term,Schichten,term_0076,layers,Schichten,,Composition,exp_Composition,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0154
+term,diffusion,term_0077,diffusion,Diffusion,,Composition,exp_Composition,,tag_0155
+term,mirror,term_0078,mirror,Spiegel,,Composition,exp_Composition,,tag_0156
+term,Spiegel,term_0078,mirror,Spiegel,,Composition,exp_Composition,,tag_0157
+term,reflection,term_0079,reflection,Reflexion,,Composition,exp_Composition,,tag_0158
+term,Reflexion,term_0079,reflection,Reflexion,,Composition,exp_Composition,,tag_0159
+term,establishing shot,term_0080,establishing shot,Establishing Shot,,Mise-en-cadre,exp_Mise_en_cadre,"Lexikon der Filmbegriffe Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0160
+term,long shot,term_0081,long shot,Totale,,Mise-en-cadre,exp_Mise_en_cadre,,tag_0161
+term,Totale,term_0081,long shot,Totale,,Mise-en-cadre,exp_Mise_en_cadre,,tag_0162
+term,medium,term_0082,medium,amerikanische Einstellung,,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0163
+term,amerikanische Einstellung,term_0082,medium,amerikanische Einstellung,,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0164
+term,medium close-up,term_0083,medium close-up,Nahe,,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0165
+term,Nahe,term_0083,medium close-up,Nahe,,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0166
+term,close-up,term_0084,close-up,Grossaufnahme,,Mise-en-cadre,exp_Mise_en_cadre,,tag_0167
+term,Grossaufnahme,term_0084,close-up,Grossaufnahme,,Mise-en-cadre,exp_Mise_en_cadre,,tag_0168
+term,choker close-up,term_0085,choker close-up,Extreme Grossaufnahme,,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0169
+term,Extreme Grossaufnahme,term_0085,choker close-up,Extreme Grossaufnahme,,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0170
+term,detail,term_0086,detail,Detailaufnahme,,Mise-en-cadre,exp_Mise_en_cadre,,tag_0171
+term,Detailaufnahme,term_0086,detail,Detailaufnahme,,Mise-en-cadre,exp_Mise_en_cadre,,tag_0172
+term,top shot,term_0087,top shot,Top Shot,,Mise-en-cadre,exp_Mise_en_cadre,,tag_0173
+term,over shoulder,term_0088,over shoulder,Over Shoulder,,Mise-en-cadre,exp_Mise_en_cadre,,tag_0174
+term,shallow DOF,term_0089,shallow DOF,geringe Schärfentiefe,Depth of Field,Depth of Field,exp_Depth_of_Field,,tag_0175
+term,geringe Schärfentiefe,term_0089,shallow DOF,geringe Schärfentiefe,Depth of Field,Depth of Field,exp_Depth_of_Field,,tag_0176
+field,Depth of Field,,,,,Depth of Field,exp_Depth_of_Field,,tag_0177
+register,Depth of Field,,,,Depth of Field,,,,tag_0178
+term,middle DOF,term_0090,middle DOF,mittlere Schärfentiefe,,Depth of Field,exp_Depth_of_Field,,tag_0179
+term,mittlere Schärfentiefe,term_0090,middle DOF,mittlere Schärfentiefe,,Depth of Field,exp_Depth_of_Field,,tag_0180
+term,deep focus,term_0091,deep focus,grosse Schärfentiefe,,Depth of Field,exp_Depth_of_Field,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0181
+term,grosse Schärfentiefe,term_0091,deep focus,grosse Schärfentiefe,,Depth of Field,exp_Depth_of_Field,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0182
+term,rack focus,term_0092,rack focus,Schärfenverlagerung,,Depth of Field,exp_Depth_of_Field,"Smid, Tereza (2012): Poetik der Schärfenverlagerung. Marburg: Schüren. Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0183
+term,Schärfenverlagerung,term_0092,rack focus,Schärfenverlagerung,,Depth of Field,exp_Depth_of_Field,"Smid, Tereza (2012): Poetik der Schärfenverlagerung. Marburg: Schüren. Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0184
+term,motion blur,term_0093,motion blur,Bewegungsunschärfe,,Depth of Field,exp_Depth_of_Field,,tag_0185
+term,Bewegungsunschärfe,term_0093,motion blur,Bewegungsunschärfe,,Depth of Field,exp_Depth_of_Field,,tag_0186
+term,bokeh,term_0094,bokeh,Bokeh,,Depth of Field,exp_Depth_of_Field,siehe https://luminous-landscape.com/rediscover-understanding-bokeh/ für eine gute Zusammenfassung der optischen Grundlagen. Auch Abschnitt in Smid (2012: 41 f.),tag_0187
+term,optical diffusion,term_0095,optical diffusion,optische Diffusion,,Depth of Field,exp_Depth_of_Field,,tag_0188
+term,optische Diffusion,term_0095,optical diffusion,optische Diffusion,,Depth of Field,exp_Depth_of_Field,,tag_0189
+term,Lighting Type,term_0096,Lighting Type,Beleuchtungstypus,Lighting,Lighting Type,,,tag_0190
+term,Beleuchtungstypus,term_0096,Lighting Type,Beleuchtungstypus,Lighting,Lighting Type,,,tag_0191
+field,Lighting Type,,,,,Lighting Type,,,tag_0192
+register,Lighting,,,,Lighting,,,,tag_0193
+term,high-key,term_0097,high-key,high-key,,Lighting Type,exp_Lighting_Type,,tag_0194
+term,low-key,term_0098,low-key,low-key,,Lighting Type,exp_Lighting_Type,,tag_0195
+term,chiaroscuro,term_0099,chiaroscuro,Chiaroscuro,,Lighting Type,exp_Lighting_Type,,tag_0196
+term,modeling,term_0100,modeling,Modellierung,,Lighting Type,exp_Lighting_Type,,tag_0197
+term,Modellierung,term_0100,modeling,Modellierung,,Lighting Type,exp_Lighting_Type,,tag_0198
+term,uneven,term_0101,uneven,ungleichmässig,,Lighting Type,exp_Lighting_Type,,tag_0199
+term,ungleichmässig,term_0101,uneven,ungleichmässig,,Lighting Type,exp_Lighting_Type,,tag_0200
+term,key light,term_0102,key light,Führungslicht,,Lighting Scheme,exp_Lighting_Scheme,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017. Lexikon der Filmbegriffe (dt.)",tag_0201
+term,Führungslicht,term_0102,key light,Führungslicht,,Lighting Scheme,exp_Lighting_Scheme,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017. Lexikon der Filmbegriffe (dt.)",tag_0202
+field,Lighting Scheme,,,,,Lighting Scheme,exp_Lighting_Scheme,,tag_0203
+term,fill light,term_0103,fill light,Aufhellung (NICHT Fülllicht!),,Lighting Scheme,exp_Lighting_Scheme,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0204
+term,Aufhellung (NICHT Fülllicht!),term_0103,fill light,Aufhellung (NICHT Fülllicht!),,Lighting Scheme,exp_Lighting_Scheme,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0205
+term,back light,term_0104,back light,Gegenlicht,,Lighting Scheme,exp_Lighting_Scheme,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0206
+term,Gegenlicht,term_0104,back light,Gegenlicht,,Lighting Scheme,exp_Lighting_Scheme,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0207
+term,sunshine,term_0105,sunshine,Sonnenschein,,Lighting Scheme,exp_Lighting_Scheme,,tag_0208
+term,Sonnenschein,term_0105,sunshine,Sonnenschein,,Lighting Scheme,exp_Lighting_Scheme,,tag_0209
+term,practical lights,term_0106,practical lights,diegetisches Licht,,Lighting Scheme,exp_Lighting_Scheme,,tag_0210
+term,diegetisches Licht,term_0106,practical lights,diegetisches Licht,,Lighting Scheme,exp_Lighting_Scheme,,tag_0211
+term,light change,term_0107,light change,Lichtwechsel,,Lighting Scheme,exp_Lighting_Scheme,,tag_0212
+term,Lichtwechsel,term_0107,light change,Lichtwechsel,,Lighting Scheme,exp_Lighting_Scheme,,tag_0213
+term,overcast sky,term_0108,overcast sky,bedeckter Himmel,,Lighting Scheme,exp_Lighting_Scheme,,tag_0214
+term,bedeckter Himmel,term_0108,overcast sky,bedeckter Himmel,,Lighting Scheme,exp_Lighting_Scheme,,tag_0215
+term,grazing light,term_0109,grazing light,Streiflicht,,Lighting Scheme,exp_Lighting_Scheme,,tag_0216
+term,Streiflicht,term_0109,grazing light,Streiflicht,,Lighting Scheme,exp_Lighting_Scheme,,tag_0217
+term,colored grazing light,term_0110,colored grazing light,farbiges Streiflicht,,Lighting Scheme,exp_Lighting_Scheme,"Flückiger, Barbara (2020): Spielformen der Figur/Grund-Interaktion im Farbfilm. Eine typologische Bestimmung. In: Montage AV, 29,2. S. 81–114, (= https://www.zora.uzh.ch/id/eprint/199217/), S. 105.",tag_0218
+term,farbiges Streiflicht,term_0110,colored grazing light,farbiges Streiflicht,,Lighting Scheme,exp_Lighting_Scheme,"Flückiger, Barbara (2020): Spielformen der Figur/Grund-Interaktion im Farbfilm. Eine typologische Bestimmung. In: Montage AV, 29,2. S. 81–114, (= https://www.zora.uzh.ch/id/eprint/199217/), S. 105.",tag_0219
+term,rim light,term_0111,rim light,Kanten,,Lighting Scheme,exp_Lighting_Scheme,,tag_0220
+term,Kanten,term_0111,rim light,Kanten,,Lighting Scheme,exp_Lighting_Scheme,,tag_0221
+term,caustics,term_0112,caustics,Kaustik,,Lighting Scheme,exp_Lighting_Scheme,,tag_0222
+term,Kaustik,term_0112,caustics,Kaustik,,Lighting Scheme,exp_Lighting_Scheme,,tag_0223
+term,spotlight,term_0113,spotlight,Scheinwerfer,,Lighting Scheme,exp_Lighting_Scheme,,tag_0224
+term,Scheinwerfer,term_0113,spotlight,Scheinwerfer,,Lighting Scheme,exp_Lighting_Scheme,,tag_0225
+term,candle,term_0114,candle,Kerze,,Lighting Scheme,exp_Lighting_Scheme,,tag_0226
+term,Kerze,term_0114,candle,Kerze,,Lighting Scheme,exp_Lighting_Scheme,,tag_0227
+term,fire,term_0115,fire,Feuer,,Lighting Scheme,exp_Lighting_Scheme,,tag_0228
+term,Feuer,term_0115,fire,Feuer,,Lighting Scheme,exp_Lighting_Scheme,,tag_0229
+term,neon sign,term_0116,neon sign,Leuchtreklame,,Lighting Scheme,exp_Lighting_Scheme,,tag_0230
+term,Leuchtreklame,term_0116,neon sign,Leuchtreklame,,Lighting Scheme,exp_Lighting_Scheme,,tag_0231
+term,neon light,term_0117,neon light,Neonlicht,,Lighting Scheme,exp_Lighting_Scheme,,tag_0232
+term,Neonlicht,term_0117,neon light,Neonlicht,,Lighting Scheme,exp_Lighting_Scheme,,tag_0233
+term,volumetric light,term_0118,volumetric light,volumetrisches Licht,,Lighting Scheme,exp_Lighting_Scheme,,tag_0234
+term,volumetrisches Licht,term_0118,volumetric light,volumetrisches Licht,,Lighting Scheme,exp_Lighting_Scheme,,tag_0235
+term,lens flares,term_0119,lens flares,Lens Flares / Blendenflecke,,Lighting Scheme,exp_Lighting_Scheme,"Flückiger, Barbara (2008): Visual Effects. Filmbilder aus dem Computer. Marburg: Schüren, pp. 171, 350 ff.",tag_0236
+term,Blendenflecke,term_0119,lens flares,Lens Flares / Blendenflecke,,Lighting Scheme,exp_Lighting_Scheme,"Flückiger, Barbara (2008): Visual Effects. Filmbilder aus dem Computer. Marburg: Schüren, pp. 171, 350 ff.",tag_0237
+term,slow,term_0120,slow,langsam,Movement,Camera Movement,exp_Camera_Movement,,tag_0238
+term,langsam,term_0120,slow,langsam,Movement,Camera Movement,exp_Camera_Movement,,tag_0239
+field,Camera Movement,,,,,Camera Movement,exp_Camera_Movement,,tag_0240
+register,Movement,,,,Movement,,,,tag_0241
+term,fast,term_0121,fast,schnell,,Camera Movement,exp_Camera_Movement,,tag_0242
+term,schnell,term_0121,fast,schnell,,Camera Movement,exp_Camera_Movement,,tag_0243
+term,steady,term_0122,steady,gleichmässig,,Camera Movement,exp_Camera_Movement,,tag_0244
+term,gleichmässig,term_0122,steady,gleichmässig,,Camera Movement,exp_Camera_Movement,,tag_0245
+term,hectic,term_0123,hectic,hektisch,,Camera Movement,exp_Camera_Movement,,tag_0246
+term,hektisch,term_0123,hectic,hektisch,,Camera Movement,exp_Camera_Movement,,tag_0247
+term,tracking shot,term_0124,tracking shot,Kamerafahrt,,Camera Movement,exp_Camera_Movement,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0248
+term,Kamerafahrt,term_0124,tracking shot,Kamerafahrt,,Camera Movement,exp_Camera_Movement,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0249
+term,crane shot,term_0125,crane shot,Kranfahrt,,Camera Movement,exp_Camera_Movement,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0250
+term,Kranfahrt,term_0125,crane shot,Kranfahrt,,Camera Movement,exp_Camera_Movement,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0251
+term,pan,term_0126,pan,Schwenk,,Camera Movement,exp_Camera_Movement,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0252
+term,Schwenk,term_0126,pan,Schwenk,,Camera Movement,exp_Camera_Movement,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0253
+term,tilt,term_0127,tilt,vertikaler Schwenk,,Camera Movement,exp_Camera_Movement,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0254
+term,vertikaler Schwenk,term_0127,tilt,vertikaler Schwenk,,Camera Movement,exp_Camera_Movement,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0255
+term,handheld,term_0128,handheld,Handkamera,,Camera Movement,exp_Camera_Movement,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0256
+term,Handkamera,term_0128,handheld,Handkamera,,Camera Movement,exp_Camera_Movement,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0257
+term,jittery,term_0129,jittery,"nervös, verzittert",,Camera Movement,exp_Camera_Movement,,tag_0258
+term,"nervös, verzittert",term_0129,jittery,"nervös, verzittert",,Camera Movement,exp_Camera_Movement,,tag_0259
+term,Steadicam,term_0130,Steadicam,Steadicam,,Camera Movement,exp_Camera_Movement,,tag_0260
+term,zoom,term_0131,zoom,Zoom,,Camera Movement,exp_Camera_Movement,,tag_0261
+term,ride,term_0132,ride,Ride,,Camera Movement,exp_Camera_Movement,,tag_0262
+term,flight,term_0133,flight,Flug,,Camera Movement,exp_Camera_Movement,,tag_0263
+term,Flug,term_0133,flight,Flug,,Camera Movement,exp_Camera_Movement,,tag_0264
+term,anthropomorphic,term_0134,anthropomorphic,anthropomorph,,Camera Movement,exp_Camera_Movement,,tag_0265
+term,anthropomorph,term_0134,anthropomorphic,anthropomorph,,Camera Movement,exp_Camera_Movement,,tag_0266
+term,technomorphic,term_0135,technomorphic,technomorph,,Camera Movement,exp_Camera_Movement,,tag_0267
+term,technomorph,term_0135,technomorphic,technomorph,,Camera Movement,exp_Camera_Movement,,tag_0268
+term,character-centered,term_0136,character-centered,figurenzentriert,,Camera Movement,exp_Camera_Movement,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0269
+term,figurenzentriert,term_0136,character-centered,figurenzentriert,,Camera Movement,exp_Camera_Movement,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0270
+term,reframing,term_0137,reframing,Korrektur der Cadrage,,Camera Movement,exp_Camera_Movement,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0271
+term,Korrektur der Cadrage,term_0137,reframing,Korrektur der Cadrage,,Camera Movement,exp_Camera_Movement,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0272
+term,arc shot,term_0138,arc shot,Kreisfahrt,,Camera Movement,exp_Camera_Movement,,tag_0273
+term,Kreisfahrt,term_0138,arc shot,Kreisfahrt,,Camera Movement,exp_Camera_Movement,,tag_0274
+term,helicopter shot,term_0139,helicopter shot,Helikopteraufnahme,,Camera Movement,exp_Camera_Movement,,tag_0275
+term,Helikopteraufnahme,term_0139,helicopter shot,Helikopteraufnahme,,Camera Movement,exp_Camera_Movement,,tag_0276
+term,miniature,term_0140,miniature,Modell,Key Words,VFX,exp_VFX,,tag_0277
+term,Modell,term_0140,miniature,Modell,Key Words,VFX,exp_VFX,,tag_0278
+term,voice-over,term_0141,voice-over,Voice-over,Key Words,Narratology,exp_Narratology,,tag_0279
+term,horizontal,term_0142,horizontal,horizontal,Composition,Composition,exp_Composition,,tag_0280
+term,vertical,term_0143,vertical,vertikal,Composition,Composition,exp_Composition,,tag_0281
+term,vertikal,term_0143,vertical,vertikal,Composition,Composition,exp_Composition,,tag_0282
+term,triangular,term_0144,triangular,dreieckig,Composition,Composition,exp_Composition,,tag_0283
+term,dreieckig,term_0144,triangular,dreieckig,Composition,Composition,exp_Composition,,tag_0284
+term,panorama,term_0145,panorama,Panorama,Composition,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0285
+term,natural,term_0146,natural,natürlich,Lighting,Lighting Type,exp_Lighting_Type,,tag_0286
+term,natürlich,term_0146,natural,natürlich,Lighting,Lighting Type,exp_Lighting_Type,,tag_0287
+term,three-point lighting,term_0147,three-point lighting,Dreipunktbeleuchtung,Lighting,Lighting Scheme,exp_Lighting_Scheme,,tag_0288
+term,Dreipunktbeleuchtung,term_0147,three-point lighting,Dreipunktbeleuchtung,Lighting,Lighting Scheme,exp_Lighting_Scheme,,tag_0289
+term,phantom ride,term_0148,phantom ride,Phantom Ride,Movement,Camera Movement,exp_Camera_Movement,"Flückiger, Barbara (2008): Visual Effects. Filmbilder aus dem Computer. Marburg: Schüren, S. 308.",tag_0290
+term,high,term_0149,high,,Composition,Visual Complexity,exp_Visual_Complexity,,tag_0291
+field,Visual Complexity,,,,,Visual Complexity,exp_Visual_Complexity,,tag_0292
+term,top light,term_0150,top light,Beleuchtung von oben,Lighting,Lighting Scheme,exp_Lighting_Scheme,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0293
+term,Beleuchtung von oben,term_0150,top light,Beleuchtung von oben,Lighting,Lighting Scheme,exp_Lighting_Scheme,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0294
+term,tilted,term_0151,tilted,"gekippt, verkantet",Composition,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0295
+term,"gekippt, verkantet",term_0151,tilted,"gekippt, verkantet",Composition,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0296
+term,animation,term_0152,animation,Animation,Key Words,VFX,exp_VFX,,tag_0297
+term,abstract form,term_0153,abstract form,,Key Words,Higher Order Semantics,exp_Higher_Order_Semantics,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0298
+field,Higher Order Semantics,,,,,Higher Order Semantics,exp_Higher_Order_Semantics,,tag_0299
+term,asynchronous sound,term_0154,asynchronous sound,asynchroner Ton,Sound,Image Sound Relationship,exp_Image_Sound_Relationship,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0300
+term,asynchroner Ton,term_0154,asynchronous sound,asynchroner Ton,Sound,Image Sound Relationship,exp_Image_Sound_Relationship,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0301
+field,Image Sound Relationship,,,,,Image Sound Relationship,exp_Image_Sound_Relationship,,tag_0302
+register,Sound,,,,Sound,,,,tag_0303
+term,constructive editing,term_0155,constructive editing,,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0304
+field,Editing,,,,,Editing,exp_Editing,,tag_0305
+register,Montage,,,,Montage,,,,tag_0306
+term,cut-in,term_0156,cut-in,Heranschnitt,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0307
+term,Heranschnitt,term_0156,cut-in,Heranschnitt,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0308
+term,dialogue overlap,term_0157,dialogue overlap,Dialogüberlappung,Sound,Image Sound Relationship,exp_Image_Sound_Relationship,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0309
+term,Dialogüberlappung,term_0157,dialogue overlap,Dialogüberlappung,Sound,Image Sound Relationship,exp_Image_Sound_Relationship,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0310
+term,diegetic sound,term_0158,diegetic sound,diegetischer Ton,Sound,Diegesis,exp_Diegesis,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0311
+term,diegetischer Ton,term_0158,diegetic sound,diegetischer Ton,Sound,Diegesis,exp_Diegesis,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0312
+field,Diegesis,,,,,Diegesis,exp_Diegesis,,tag_0313
+term,discontinuity editing,term_0159,discontinuity editing,diskontinuierliche Montage,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0314
+term,diskontinuierliche Montage,term_0159,discontinuity editing,diskontinuierliche Montage,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0315
+term,external diegetic sound,term_0160,external diegetic sound,externer diegetischer Ton,Sound,Diegesis,exp_Diegesis,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0316
+term,externer diegetischer Ton,term_0160,external diegetic sound,externer diegetischer Ton,Sound,Diegesis,exp_Diegesis,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0317
+term,eyeline match,term_0161,eyeline match,Eyeline Match,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0318
+term,graphic match,term_0162,graphic match,Match Cut,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0319
+term,Match Cut,term_0162,graphic match,Match Cut,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0320
+term,intellectual montage,term_0163,intellectual montage,intellektuelle Montage,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0321
+term,intellektuelle Montage,term_0163,intellectual montage,intellektuelle Montage,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0322
+term,internal diegetic sound,term_0164,internal diegetic sound,subjektiver diegetischer Ton,Sound,Diegesis,exp_Diegesis,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0323
+term,subjektiver diegetischer Ton,term_0164,internal diegetic sound,subjektiver diegetischer Ton,Sound,Diegesis,exp_Diegesis,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0324
+term,jump cut,term_0165,jump cut,Jump Cut,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0325
+term,match on action,term_0166,match on action,Anschluss in der Bewegung,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0326
+term,Anschluss in der Bewegung,term_0166,match on action,Anschluss in der Bewegung,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0327
+term,motion capture,term_0167,motion capture,Motion Capture,Key Words,VFX,exp_VFX,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0328
+term,motion control,term_0168,motion control,Motion Control,Key Words,VFX,exp_VFX,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0329
+term,nondiegetic insert,term_0169,nondiegetic insert,extradiegetisches Insert,Composition,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0330
+term,extradiegetisches Insert,term_0169,nondiegetic insert,extradiegetisches Insert,Composition,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0331
+term,nondiegetic sound,term_0170,nondiegetic sound,extradiegetischer Ton,Sound,Diegesis,exp_Diegesis,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0332
+term,extradiegetischer Ton,term_0170,nondiegetic sound,extradiegetischer Ton,Sound,Diegesis,exp_Diegesis,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0333
+term,nonsimultaneous sound,term_0171,nonsimultaneous sound,nicht-simultaner Ton,Sound,Image Sound Relationship,exp_Image_Sound_Relationship,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0334
+term,nicht-simultaner Ton,term_0171,nonsimultaneous sound,nicht-simultaner Ton,Sound,Image Sound Relationship,exp_Image_Sound_Relationship,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0335
+term,normal lens,term_0172,normal lens,Normalobjektiv,Composition,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0336
+term,Normalobjektiv,term_0172,normal lens,Normalobjektiv,Composition,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0337
+term,offscreen sound,term_0173,offscreen sound,diegetischer Off-Ton,Sound,Image Sound Relationship,exp_Image_Sound_Relationship,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0338
+term,diegetischer Off-Ton,term_0173,offscreen sound,diegetischer Off-Ton,Sound,Image Sound Relationship,exp_Image_Sound_Relationship,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0339
+term,overlapping editing,term_0174,overlapping editing,überlappende Montage,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0340
+term,überlappende Montage,term_0174,overlapping editing,überlappende Montage,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0341
+term,shot,term_0175,shot/reverse shot,Schuss-Gegenschuss,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0342
+term,reverse shot,term_0175,shot/reverse shot,Schuss-Gegenschuss,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0343
+term,Schuss-Gegenschuss,term_0175,shot/reverse shot,Schuss-Gegenschuss,Montage,Editing,exp_Editing,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0344
+term,sidelight,term_0176,sidelight,Seitenlicht,Lighting,Lighting Scheme,exp_Lighting_Scheme,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0345
+term,Seitenlicht,term_0176,sidelight,Seitenlicht,Lighting,Lighting Scheme,exp_Lighting_Scheme,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0346
+term,simultaneous sound,term_0177,simultaneous sound,simultaner Ton,Sound,Image Sound Relationship,exp_Image_Sound_Relationship,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0347
+term,simultaner Ton,term_0177,simultaneous sound,simultaner Ton,Sound,Image Sound Relationship,exp_Image_Sound_Relationship,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0348
+term,sound bridge,term_0178,sound bridge,Tonbrücke,Sound,Image Sound Relationship,exp_Image_Sound_Relationship,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0349
+term,Tonbrücke,term_0178,sound bridge,Tonbrücke,Sound,Image Sound Relationship,exp_Image_Sound_Relationship,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0350
+term,sound over,term_0179,sound over,Off-Ton,Sound,Image Sound Relationship,exp_Image_Sound_Relationship,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0351
+term,Off-Ton,term_0179,sound over,Off-Ton,Sound,Image Sound Relationship,exp_Image_Sound_Relationship,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0352
+term,synchronous sound,term_0180,synchronous sound,Synchronton,Sound,Image Sound Relationship,exp_Image_Sound_Relationship,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0353
+term,Synchronton,term_0180,synchronous sound,Synchronton,Sound,Image Sound Relationship,exp_Image_Sound_Relationship,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0354
+term,telephoto lens,term_0181,telephoto lens,Teleobjektiv,Composition,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0355
+term,Teleobjektiv,term_0181,telephoto lens,Teleobjektiv,Composition,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0356
+term,3D computer animation,term_0182,3D computer animation,3D-Computeranimation,Key Words,VFX,exp_VFX,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0357
+term,3D-Computeranimation,term_0182,3D computer animation,3D-Computeranimation,Key Words,VFX,exp_VFX,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0358
+term,whip pan,term_0183,whip pan,Reiss-Schwenk,Movement,Camera Movement,exp_Camera_Movement,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0359
+term,Reiss-Schwenk,term_0183,whip pan,Reiss-Schwenk,Movement,Camera Movement,exp_Camera_Movement,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0360
+term,wide-angle lens,term_0184,wide-angle lens,Weitwinkelobjektiv,Composition,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0361
+term,Weitwinkelobjektiv,term_0184,wide-angle lens,Weitwinkelobjektiv,Composition,Mise-en-cadre,exp_Mise_en_cadre,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0362
+term,CGI,term_0185,CGI,computergenerierte Bilder,Key Words,VFX,,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0363
+term,computergenerierte Bilder,term_0185,CGI,computergenerierte Bilder,Key Words,VFX,,"Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0364
+term,front projection,term_0186,front projection,Frontprojektion,Key Words,VFX,exp_VFX,"Flückiger, Barbara (2008): Visual Effects. Filmbilder aus dem Computer. Marburg: Schüren, S. 508. (dt.) Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0365
+term,Frontprojektion,term_0186,front projection,Frontprojektion,Key Words,VFX,exp_VFX,"Flückiger, Barbara (2008): Visual Effects. Filmbilder aus dem Computer. Marburg: Schüren, S. 508. (dt.) Bordwell, David; Thompson, Kristin (1992): Film Art. An Introduction. 11th Edition. McGraw-Hill Higher Education, 2017.",tag_0366

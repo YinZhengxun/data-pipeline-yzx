@@ -1,0 +1,206 @@
+{
+  "version": "1.0.0",
+  "default_subtype": "unspecified",
+  "canonical_type_map": {
+    "PER": "PER",
+    "PERSON": "PER",
+    "ORG": "ORG",
+    "ORGANIZATION": "ORG",
+    "LOC": "LOC",
+    "LOCATION": "LOC",
+    "GPE": "LOC",
+    "WORK": "WORK_OF_ART",
+    "WORK_OF_ART": "WORK_OF_ART",
+    "TITLE": "WORK_OF_ART",
+    "FILM": "WORK_OF_ART",
+    "MOVIE": "WORK_OF_ART",
+    "SERIES": "WORK_OF_ART",
+    "EVENT": "EVT",
+    "EVT": "EVT",
+    "DATE": "DATE",
+    "TIME": "DATE",
+    "YEAR": "DATE",
+    "MISC": "MISC"
+  },
+  "types": {
+    "PER": {
+      "description": "People (real or fictional).",
+      "subtypes": {
+        "actor": {
+          "keywords": [
+            "actor",
+            "actress",
+            "cast",
+            "performer",
+            "schauspieler",
+            "schauspielerin",
+            "darsteller"
+          ]
+        },
+        "director": {
+          "keywords": [
+            "director",
+            "regisseur",
+            "regie"
+          ]
+        },
+        "producer": {
+          "keywords": [
+            "producer",
+            "produzent",
+            "produzentin"
+          ]
+        },
+        "screenwriter": {
+          "keywords": [
+            "screenwriter",
+            "scriptwriter",
+            "writer",
+            "author",
+            "drehbuch",
+            "drehbuchautor"
+          ]
+        },
+        "cinematographer": {
+          "keywords": [
+            "cinematographer",
+            "director of photography",
+            "dop",
+            "kamera",
+            "kameramann",
+            "kamerafrau"
+          ]
+        }
+      }
+    },
+    "ORG": {
+      "description": "Organizations in film culture and industry.",
+      "subtypes": {
+        "film_festival": {
+          "keywords": [
+            "film festival",
+            "festival",
+            "filmfest",
+            "filmfestival",
+            "zurich film festival",
+            "zff",
+            "berlinale",
+            "cannes"
+          ]
+        },
+        "production_company": {
+          "keywords": [
+            "production company",
+            "productions",
+            "pictures",
+            "films",
+            "entertainment",
+            "gmbh",
+            "ag"
+          ]
+        },
+        "distributor": {
+          "keywords": [
+            "distributor",
+            "distribution",
+            "verleih"
+          ]
+        },
+        "broadcaster": {
+          "keywords": [
+            "broadcaster",
+            "broadcast",
+            "tv",
+            "television",
+            "fernsehen",
+            "sender",
+            "network",
+            "media group",
+            "mediengruppe"
+          ]
+        },
+        "cinema": {
+          "keywords": [
+            "cinema",
+            "kino",
+            "theater",
+            "theatre"
+          ]
+        },
+        "studio": {
+          "keywords": [
+            "studio",
+            "atelier"
+          ]
+        }
+      }
+    },
+    "WORK_OF_ART": {
+      "description": "Creative works in film and media.",
+      "subtypes": {
+        "film": {
+          "keywords": [
+            "film",
+            "movie",
+            "feature",
+            "spielfilm"
+          ]
+        },
+        "script": {
+          "keywords": [
+            "script",
+            "screenplay",
+            "drehbuch"
+          ]
+        },
+        "documentary": {
+          "keywords": [
+            "documentary",
+            "dokumentarfilm"
+          ]
+        },
+        "series": {
+          "keywords": [
+            "series",
+            "tv series",
+            "show",
+            "miniseries",
+            "serie"
+          ]
+        }
+      }
+    },
+    "LOC": {
+      "description": "Places and geopolitical entities.",
+      "subtypes": {}
+    },
+    "EVT": {
+      "description": "Events (screenings, ceremonies, etc.).",
+      "subtypes": {
+        "screening": {
+          "keywords": [
+            "screening",
+            "premiere",
+            "vorfuehrung"
+          ]
+        },
+        "award": {
+          "keywords": [
+            "award",
+            "oscar",
+            "golden globe",
+            "preis"
+          ]
+        }
+      }
+    },
+    "DATE": {
+      "description": "Temporal expressions.",
+      "subtypes": {}
+    },
+    "MISC": {
+      "description": "Other named entities not mapped to a canonical film type.",
+      "subtypes": {}
+    }
+  }
+}
